@@ -1,2 +1,2 @@
 # google-cybersec
-Google Cybersecurity Course
+Google Cybersecurity Professional Certificate
