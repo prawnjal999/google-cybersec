@@ -1,2 +1,2 @@
-# google-cybersec
+# google-cybersec-portfolio
 Google Cybersecurity Professional Certificate
