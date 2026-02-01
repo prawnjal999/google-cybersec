@@ -22,7 +22,13 @@ From this security audit, I have learned:
 - How to determine and evaluate security risks
 - How to review administrative, technical, and physical controls
 - How to prepare findings and provide recommendations
-- 
+
+## Frameworks & Standards Referenced
+- NIST Cybersecurity Framework (CSF)
+- PCI DSS
+- General Data Protection Regulation (GDPR)
+- SOC Type 1 and Type 2
+
 ## Disclaimer
 This audit is for educational purposes only and does not represent a real
 organization or real security assessment.
